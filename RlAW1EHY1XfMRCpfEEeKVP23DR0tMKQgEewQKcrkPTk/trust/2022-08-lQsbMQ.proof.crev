@@ -38,3 +38,22 @@ comment: |-
 RjbTHQby5aFW4AxyVBCFdutDcU4DARC9z9i3FtCkhyYak4Pyiyoz37xvBq4whY35Yj1NoVL9Ar76r06hH8aICg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: 2022-08-29T19:28:50.146692967+02:00
+from:
+  id-type: crev
+  id: RlAW1EHY1XfMRCpfEEeKVP23DR0tMKQgEewQKcrkPTk
+  url: https://github.com/intra2net/crev-proofs.git
+ids:
+- id-type: crev
+  id: Ja1uYcBfo4pxqkHEgaHNAdBtvZdQ667nDGZyhrCkJs0
+  url: https://github.com/intra2net/crev-proofs.git
+trust: high
+comment: |-
+  Trust Intra2net team member "Thomas Jarosch"
+----- SIGN CREV PROOF -----
+u5uA0dQ8ZSQkf065EnJpjF4ejHdqL0g2vTrAsNLaf8D_wsQ4FF0wy8Q0Rl1j5MPiwuHAsZHtvnUwmV-kV0dVAg
+----- END CREV PROOF -----
+
