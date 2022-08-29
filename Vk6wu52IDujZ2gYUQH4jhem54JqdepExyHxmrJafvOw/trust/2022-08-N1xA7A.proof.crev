@@ -1,0 +1,19 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: 2022-08-29T19:30:13.789611256+02:00
+from:
+  id-type: crev
+  id: Vk6wu52IDujZ2gYUQH4jhem54JqdepExyHxmrJafvOw
+  url: https://github.com/intra2net/crev-proofs.git
+ids:
+- id-type: crev
+  id: RlAW1EHY1XfMRCpfEEeKVP23DR0tMKQgEewQKcrkPTk
+  url: https://github.com/intra2net/crev-proofs.git
+trust: high
+comment: |-
+  Trust Intra2net "root trust" id
+----- SIGN CREV PROOF -----
+D6c_KwCDD1mBtNez59fvlZV3kz_hTsp1n51zPbS9cYtX8vTa5bzqZEEB-offjdQiS52qHNrBzXEVPGqC354GAw
+----- END CREV PROOF -----
+
